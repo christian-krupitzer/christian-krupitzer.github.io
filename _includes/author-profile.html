@@ -23,7 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
+		<li>Next: <a href="{{ author.acsos_site }}"><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
+      {% endif %}
+	   {% if author.date %}
+        <li><i class="far fa-clock " aria-hidden="true"></i> {{ author.date }}</li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>

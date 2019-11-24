@@ -84,12 +84,14 @@ author:
   avatar           : "avatar.jpg"
   bio              : ""
   location         : "Next: Washington DC"
-  employer         : "Aug. 17-21, 2020"
+  acsos_site       : "https://conf.researchr.org/home/acsos-2020"
+  date             : "Aug. 17-21, 2020"
+  employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "https://lists.uni-wuerzburg.de/mailman/listinfo/acsos"
+  email            : "christian.krupitzer@uni-wuerzburg.de"
   researchgate     : 
-  uri              : "christian.krupitzer@uni-wuerzburg.de"
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
