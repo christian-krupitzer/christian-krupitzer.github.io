@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ACSOS"
+title: "International Conference on Autonomic Computing and Self-Organizing Systems"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "International Conference on Autonomic Computing and Self-Organizing Systems"
+title                    : ""
 title_separator          : "-"
 name                     : &name "ACSOS"
 description              : &description "ACSOS"
