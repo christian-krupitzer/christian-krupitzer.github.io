@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Hosting"
+title: "Call for Proposals to Host ACSOS"
 permalink: /hosting/
 author_profile: true
 ---
-
-## Call for Proposals to Host ACSOS
-
 
 The ACSOS Steering Committee is soliciting proposals for location and organizers of future ACSOS conferences. Proposals should include the following information:
 

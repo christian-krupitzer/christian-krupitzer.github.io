@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Steering"
+title: "Steering Committee"
 permalink: /steering/
 author_profile: true
 ---
-
-## Steering Committee
 
 [Ada Diaconescu](http://adadiaconescu.there-you-are.com/) **(Steering Committee Co-Chair)**  
 *Telecom Paris, France*

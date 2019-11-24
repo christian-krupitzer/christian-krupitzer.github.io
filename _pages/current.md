@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Current"
+title: "Current Edition"
 permalink: /current/
 author_profile: true
 ---
-
-## Current Edition
 
 The next edition takes place in Washington, DC, from Aug. 17 - Aug. 21, 2020. More information can be found on the [conf.researchr.org](https://conf.researchr.org/home/acsos-2020) page.
 

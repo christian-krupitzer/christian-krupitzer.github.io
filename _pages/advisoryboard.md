@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "Advisory"
+title: "Advisory Board"
 permalink: /advisory/
 author_profile: true
 ---
-
-## Advisory Board
 
 [Ozalp Babaoglu](http://www.cs.unibo.it/babaoglu/)   
 *University of Bologna, Italy*

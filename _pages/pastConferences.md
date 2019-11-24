@@ -1,11 +1,9 @@
 ---
 layout: archive
-title: "History"
+title: "Previous Conferences"
 permalink: /history/
 author_profile: true
 ---
-
-## Past Conferences
 
 Soon, you will find information on the past ICAC and SASO conferences...
 
