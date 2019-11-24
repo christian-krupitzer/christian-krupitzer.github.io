@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Current"
+    url: /current/
+    
+  - title: "History"
+    url: /history/
+    
+  - title: "Hosting"
+    url: /hosting/
+  
+  - title: "Proceedings"
+    url: /proceedings/
+    
+  - title: "Steering Committee"
+    url: /steering/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Advisory Board"
+    url: /advisory/
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Awards"
+    url: /awards/
