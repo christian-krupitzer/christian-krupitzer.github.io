@@ -5,8 +5,6 @@ permalink: /proceedings/
 author_profile: true
 ---
 
-## Proceedings
-
 
 ICAC Proceedings | SASO Proceedings | FAS*W
 --- | --- | --- |
