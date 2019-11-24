@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "International Conference on Autonomic Computing and Self-Organizing Systems"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : ""
-  location         : "/"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
