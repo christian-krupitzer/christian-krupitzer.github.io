@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Steering Committee"
+title: "Steering"
 permalink: /steering/
 author_profile: true
 ---
@@ -18,6 +18,9 @@ author_profile: true
 
 [Betty Cheng](http://www.cse.msu.edu/~chengb/)  
  *Michigan State University, USA*
+ 
+[Songqing Chen] (https://cs.gmu.edu/~sqchen/) **(IEEE TCs on the Steering Committee)** 
+ *George Mason University*
 
 [Simon Dobson](https://www.cs.st-andrews.ac.uk/directory/person?id=sd)  
  *University of St Andrews, Scotland*

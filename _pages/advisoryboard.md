@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Advisory Board"
+title: "Advisory"
 permalink: /advisory/
 author_profile: true
 ---
