@@ -15,7 +15,7 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    <a href="{{ url }}"><h3 class="author__name">{{ author.name }}</h3></a>
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
@@ -23,10 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-		<li>Next: <a href="{{ author.acsos_site }}"><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</a></li>
+		<li><a href="{{ author.acsos_site }}"><i class="fas fa-fw fa-map-marker" aria-hidden="true"></i> Next:  {{ author.location }}</a></li>
       {% endif %}
 	   {% if author.date %}
-        <li><i class="fas fa-fw fa-clock " aria-hidden="true"></i> {{ author.date }}</li>
+        <li><a href="{{ author.acsos_site }}"><i class="fas fa-fw fa-clock " aria-hidden="true"></i> {{ author.date }}</a></li>
       {% endif %}
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
