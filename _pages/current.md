@@ -5,7 +5,7 @@ permalink: /current/
 author_profile: true
 ---
 
-![](https://raw.githubusercontent.com/acsos/acsos.github.io/master/images/ACSOS_banner.jpg "")
+![ACSOS Banner](https://raw.githubusercontent.com/acsos/acsos.github.io/master/images/ACSOSbanner.jpg)
 
 
 The next edition takes place in Washington, DC, from Aug. 17 - Aug. 21, 2020. More information can be found on the [conf.researchr.org](https://conf.researchr.org/home/acsos-2020) page.
