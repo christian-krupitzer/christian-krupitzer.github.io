@@ -3,6 +3,7 @@ layout: archive
 title: "Proceedings"
 permalink: /proceedings/
 author_profile: true
+header.image: https://raw.githubusercontent.com/acsos/acsos.github.io/master/images/ACSOSbanner.jpg
 ---
 
 
