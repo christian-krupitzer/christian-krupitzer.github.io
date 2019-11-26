@@ -17,7 +17,7 @@ author_profile: true
 [Betty Cheng](http://www.cse.msu.edu/~chengb/)  
  *Michigan State University, USA*
  
-[Songqing Chen] (https://cs.gmu.edu/~sqchen/) **(IEEE TC)** 
+[Songqing Chen](https://cs.gmu.edu/~sqchen/) **(IEEE TC)**  
  *George Mason University*
 
 [Simon Dobson](https://www.cs.st-andrews.ac.uk/directory/person?id=sd)  
