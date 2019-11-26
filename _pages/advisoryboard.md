@@ -46,5 +46,5 @@ author_profile: true
 
 [Xiaoyun Zhu]()
  
-[Vladimir Vlassov](https://people.kth.se/~vladv/)
+[Vladimir Vlassov](https://people.kth.se/~vladv/)  
  *KTH Royal Institute of Technology, Stockholm, Sweden*
