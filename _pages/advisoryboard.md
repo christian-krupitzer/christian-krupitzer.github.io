@@ -41,7 +41,7 @@ author_profile: true
 [Howard Shrobe](https://people.csail.mit.edu/hes/)  
  *Massachusetts Institute of Technology*
 
-[Alan Sill](https://www.researchgate.net/profile/Alan_Sill)
+[Alan Sill](https://www.researchgate.net/profile/Alan_Sill)  
  *Texas Tech University, Cambridge, MA, United States*
 
 [Xiaoyun Zhu]()
