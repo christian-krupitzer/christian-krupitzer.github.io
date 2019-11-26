@@ -27,11 +27,13 @@ author_profile: true
  *University of Arizona, Tucson, Arizona, USA* 
 
 [Jeff Kephart](https://researcher.watson.ibm.com/researcher/view.php?person=us-kephart)  
- *Thomas J. Watson Research Center, Hawthorne, NY USA*
+ *Thomas J. Watson Research Center, Hawthorne, NY, USA*
 
 [Michael Kozuch](https://scholar.google.com/citations?user=RPWFQlAAAAAJ&hl=en)  
+ *Intel*
 
 [Robert Laddaga](http://people.csail.mit.edu/rladdaga/)  
+ *Massachusetts Institute of Technology, Cambridge , MA, USA*
  
 [Hartmut Schmeck](https://www.kastel.kit.edu/schmeck.php)  
  *Karlsruher Institut für Technologie, Karlsruhe, Germany*
