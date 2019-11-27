@@ -5,12 +5,6 @@ permalink: /steering/
 author_profile: true
 ---
 
-[Ada Diaconescu](http://adadiaconescu.there-you-are.com/) **(Steering Committee Co-Chair)**  
-*Telecom Paris, France*
-
-[Samuel Kounev](http://go.uni-wuerzburg.de/kounev) **(Steering Committee Co-Chair)**  
- *University of Würzburg, Germany*
-
 [Jean Botev](https://wwwfr.uni.lu/recherche/fstc/computer_science_and_communications_research_unit/membres/jean_botev)  
  *Université du Luxembourg, Luxembourg*
 
@@ -20,8 +14,14 @@ author_profile: true
 [Songqing Chen](https://cs.gmu.edu/~sqchen/) **(IEEE TC)**  
  *George Mason University*
 
+[Ada Diaconescu](http://adadiaconescu.there-you-are.com/) **(Steering Committee Co-Chair)**  
+ *Telecom Paris, France*
+
 [Simon Dobson](https://www.cs.st-andrews.ac.uk/directory/person?id=sd)  
  *University of St Andrews, Scotland*
+ 
+[Samuel Kounev](http://go.uni-wuerzburg.de/kounev) **(Steering Committee Co-Chair)**  
+ *University of Würzburg, Germany*
 
 [Peter Lewis](https://www2.aston.ac.uk/eas/staff/a-z/dr-peter-lewis)  
  *Aston University Birmingham, UK*
