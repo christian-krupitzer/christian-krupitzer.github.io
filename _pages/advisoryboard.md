@@ -27,11 +27,13 @@ author_profile: true
  *University of Arizona, Tucson, Arizona, USA* 
 
 [Jeff Kephart](https://researcher.watson.ibm.com/researcher/view.php?person=us-kephart)  
- *Thomas J. Watson Research Center, Hawthorne, NY USA*
+ *Thomas J. Watson Research Center, Hawthorne, NY, USA*
 
 [Michael Kozuch](https://scholar.google.com/citations?user=RPWFQlAAAAAJ&hl=en)  
+ *Intel*
 
 [Robert Laddaga](http://people.csail.mit.edu/rladdaga/)  
+ *Massachusetts Institute of Technology, Cambridge , MA, USA*
  
 [Hartmut Schmeck](https://www.kastel.kit.edu/schmeck.php)  
  *Karlsruher Institut für Technologie, Karlsruhe, Germany*
@@ -39,10 +41,11 @@ author_profile: true
 [Howard Shrobe](https://people.csail.mit.edu/hes/)  
  *Massachusetts Institute of Technology*
 
-[Alan Sill](https://www.researchgate.net/profile/Alan_Sill)
+[Alan Sill](https://www.researchgate.net/profile/Alan_Sill)  
  *Texas Tech University, Cambridge, MA, United States*
+
+[Vladimir Vlassov](https://people.kth.se/~vladv/)  
+ *KTH Royal Institute of Technology, Stockholm, Sweden*
 
 [Xiaoyun Zhu]()
  
-[Vladimir Vlassov](https://people.kth.se/~vladv/)
- *KTH Royal Institute of Technology, Stockholm, Sweden*

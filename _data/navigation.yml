@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Current"
+  - title: "ACSOS 2020"
     url: /current/
     
   - title: "History"
@@ -12,10 +12,10 @@ main:
   - title: "Proceedings"
     url: /proceedings/
     
-  - title: "Steering"
+  - title: "Steering Committee"
     url: /steering/
 
-  - title: "Advisory"
+  - title: "Advisory Board"
     url: /advisory/
 
   - title: "Awards"

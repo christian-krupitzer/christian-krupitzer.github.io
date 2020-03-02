@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "International Conference on Autonomic Computing and Self-Organizing Systems"
+title: "IEEE International Conference on Autonomic Computing and Self-Organizing Systems"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-The International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS) was founded as a merger of the IEEE International Conference on Autonomic Computing (ICAC) and the IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO). The goal of the ACSOS is to provide a forum for sharing the latest research results, ideas and experiences in autonomic computing, self-adaptation and self-organization.  
+The IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS) was founded as a merger of the IEEE International Conference on Autonomic Computing (ICAC) and the IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO). The goal of the ACSOS is to provide a forum for sharing the latest research results, ideas and experiences in autonomic computing, self-adaptation and self-organization.  
   
 Large-scale systems of all types, such as data centers, computer clouds, smart cities, cyber-physical systems, sensor networks, and embedded or pervasive environments, are becoming increasingly complex and burdensome for people to manage. The complexity of current and emerging networks, software and services, especially in dealing with dynamics in the environment and problem domain, has led the software engineering, distributed systems and resource management communities to look for inspiration in diverse fields (e.g., complex systems, control theory, artificial intelligence, sociology, and biology) to find new ways of designing and managing such computing systems.   
   
