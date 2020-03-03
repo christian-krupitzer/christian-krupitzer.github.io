@@ -12,4 +12,4 @@ Soon, you will find information on the past ICAC and SASO conferences...
 Conference | Location | Acceptance Rate | Conference | Location | Acceptance Rate |
 --- | --- | --- | --- | --- | --- |
 [ICAC 2019](https://icac2019.cs.umu.se/) | Umeå, Sweden | 30% | [SASO 2019](https://saso2019.cs.umu.se/) | Umeå, Sweden | 30%
-Test ||| Test |||
+<td colspan=3>Test</td> | Test |||
