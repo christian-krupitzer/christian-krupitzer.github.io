@@ -230,19 +230,17 @@ Soon, you will find information on the past ICAC and SASO conferences...
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
-.tg .tg-ykm0{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:middle;position:sticky;position:-webkit-sticky;top:-1px;will-change:transform}
+.tg .tg-fu7v{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-0a7q{border-color:#000000;text-align:left;vertical-align:middle}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
-    <th class="tg-ykm0">Conference</th>
-    <th class="tg-ykm0">Location</th>
-    <th class="tg-ykm0">Acceptance Rate</th>
-    <th class="tg-ykm0">Conference</th>
-    <th class="tg-ykm0">Location</th>
-    <th class="tg-ykm0">Acceptance Rate</th>
+    <th class="tg-fu7v">Conference</th>
+    <th class="tg-fu7v">Location</th>
+    <th class="tg-fu7v">Acceptance Rate</th>
+    <th class="tg-fu7v">Conference</th>
+    <th class="tg-fu7v">Location</th>
+    <th class="tg-fu7v">Acceptance Rate</th>
   </tr>
   <tr>
     <td class="tg-lboi"><a href="https://icac2019.cs.umu.se/">ICAC 2019</a></td>
@@ -398,15 +396,15 @@ Soon, you will find information on the past ICAC and SASO conferences...
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Mazin Yousif, Intel Corporation, USA<br>Omer Rana, Cardiff University, UK<br><br><span style="font-weight:bold">Program Chairs:</span><br>José A. B. Fortes, University of Florida, USA<br>Kumar Goswami, Hewlett-Packard, USA<br></td>
-    <td class="tg-73oq" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Ozalp Babaoglu, University of Bologna, Italy<br>Howard E. Shrobe, Massachusetts Institute of Technology, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Giovanna Di Marzo Serugendo, Birkbeck College, University of London, UK<br>Jean-Philippe Martin-Flatin, NetExpert, Switzerland<br>Márk Jelasity, Hungarian Academy of Sciences and University of Szeged, Hungary<br>Franco Zambonelli, Università di Modena e Reggio Emilia, Italy<br></td>
+    <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Ozalp Babaoglu, University of Bologna, Italy<br>Howard E. Shrobe, Massachusetts Institute of Technology, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Giovanna Di Marzo Serugendo, Birkbeck College, University of London, UK<br>Jean-Philippe Martin-Flatin, NetExpert, Switzerland<br>Márk Jelasity, Hungarian Academy of Sciences and University of Szeged, Hungary<br>Franco Zambonelli, Università di Modena e Reggio Emilia, Italy<br></td>
   </tr>
   <tr>
     <td class="tg-lboi">ICAC 2006</td>
     <td class="tg-lboi">Dublin, Ireland</td>
     <td class="tg-lboi">21%</td>
-    <td class="tg-0a7q"></td>
-    <td class="tg-0a7q"></td>
-    <td class="tg-0a7q"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
+    <td class="tg-lboi"></td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Manish Parashar, Rutgers University, USA<br>Jeff Kephart, IBM Research, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Omer Rana, Cardiff University, UK<br>Mazin Yousif, Intel Corporation, USA<br></td>
