@@ -55,7 +55,7 @@ Soon, you will find information on the past ICAC and SASO conferences...
       <td>28%</td>
     </tr>
     <tr>
-      <td colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Xiaorui Wang, The Ohio State University, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Christopher Stewart, The Ohio State University, USA<br>Hui Lei, IBM T. J. Watson Research Center, USA<br></td>
+      <td style="vertical-align:top" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Xiaorui Wang, The Ohio State University, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Christopher Stewart, The Ohio State University, USA<br>Hui Lei, IBM T. J. Watson Research Center, USA<br></td>
       <td colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Ada Diaconescu, Telecom ParisTech, IMT, University Paris-Saclay, France<br><br><span style="font-weight:bold">Program Chairs:</span><br>Peter Lewis, School of Engineering and Applied Science, Aston University, UK<br>Sam Malek, University of California Irvine, CA, USA<br>Hella Seebach, Institute for Software &amp; Systems Engineering, University of Augsburg, DE<br></td>
     </tr>
     <tr>
