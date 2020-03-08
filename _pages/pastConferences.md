@@ -162,7 +162,7 @@ author_profile: true
   <tr>
     <td class="tg-lboi"><a href="http://icac2008.acis.ufl.edu/">ICAC 2008</a></td>
     <td class="tg-lboi">Chicago, Illinois, USA</td>
-    <td class="tg-lboi"></td>
+    <td class="tg-lboi">n/a</td>
     <td class="tg-lboi">SASO 2008</td>
     <td class="tg-lboi">Venice, Italy</td>
     <td class="tg-lboi">27%</td>
@@ -187,9 +187,9 @@ author_profile: true
     <td class="tg-lboi">ICAC 2006</td>
     <td class="tg-lboi">Dublin, Ireland</td>
     <td class="tg-lboi">21%</td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Manish Parashar, Rutgers University, USA<br>Jeff Kephart, IBM Research, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Omer Rana, Cardiff University, UK<br>Mazin Yousif, Intel Corporation, USA<br></td>
@@ -198,10 +198,10 @@ author_profile: true
   <tr>
     <td class="tg-lboi">ICAC 2005</td>
     <td class="tg-lboi">Seattle, WA, USA</td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Manish Parashar, Rutgers University, USA<br>Jeffrey Kephart, IBM Research, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Karsten Schwan, Georgia Tech, USA<br>Yi-Min Wang, Microsoft Research, USA<br></td>
@@ -210,10 +210,10 @@ author_profile: true
   <tr>
     <td class="tg-lboi">ICAC 2004</td>
     <td class="tg-lboi">New York, NY, USA</td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
-    <td class="tg-lboi"></td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
+    <td class="tg-lboi">n/a</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Jeff Kephart, IBM Corporation, USA<br>Manish Parashar, Rutgers University, USA<br><br><span style="font-weight:bold">Program Chairs:</span><br>Vaidy Sunderam, Emory University, USA<br>Rajarshi Das, IBM Corporation, USA<br></td>
