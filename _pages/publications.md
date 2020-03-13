@@ -72,7 +72,8 @@ author_profile: true
                 Universität Mannheim, 2018   
 * Hips do lie! A Position-Aware Mobile Fall Detection System [Conference]   
                 Christian Krupitzer, Timo Sztyler, Janick Edinger, Martin Breitbach, Heiner Stuckenschmidt, and Christian Becker   
-                IEEE International Conference on Pervasive Computing and Communications, 2018 (nominiert für Best Paper Award)   
+                IEEE International Conference on Pervasive Computing and Communications, 2018
+		
 * Using Spreadsheet-defined Rules for Reasoning in Self-Adaptive Systems [Workshop]   
 			    Christian Krupitzer, Guido Drechsel, Deborah Mateja, Alina Pollkläsener, Florian Schrage, Timo Sturm, Aleksandar Tomasovic, and Christian Becker   
 			    IEEE International Conference on Pervasive Computing and Communications Workshops, 2018   
