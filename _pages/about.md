@@ -12,9 +12,9 @@ I am currently a post-doctoral researcher and lead the Internet-of-things and Cy
 
 My main research interests include Self-aware Computing Systems and Self-adaptive Systems, Machine Learning, and Augmented/Virtual Reality applied in the domains of platooning and (self-driving) smart cars, intelligent transportation systems, Industry 4.0, and sports analytics and training support. I was awarded scholarships and grants from DAAD, Julius-Paul-Stiegler-Memorial-Foundation, and IEEE CS TCPP & TCCC. Further, my publication “Hips Do Lie! A Position-Aware Mobile Fall Detection System” was nominated as Best Paper Candidate for the PerCom 2018. Further, I am serving as reviewer and technical program committee member in several workshops, conferences and journals, such as CCNC, ITSC, PerCom, and ACSOS (merger of the IEE/ACM ICAC and the IEEE SASO). Additionally, I am involved at ACSOS as administrative support of the Steering Committee.
 
-=====
+===
 ## Contact
-=====
+===
 
 <section class="vcard">
     <div>
