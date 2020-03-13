@@ -18,7 +18,7 @@ My main research interests include Self-aware Computing Systems and Self-adaptiv
 
 <section class="vcard">
     <div>
-      You can follow me on <em><a href="https://www.linkedin.com/in/christian-krupitzer/">LinkedIn</a></em>. <br />
+      You can follow me on <em><a href="https://www.linkedin.com/in/christian-krupitzer/">LinkedIn</a></em>, <em><a href="https://scholar.google.de/citations?user=SMPWdaoAAAAJ&hl=de/">Google Scholar</a></em>, and <em><a href="https://www.researchgate.net/profile/Christian_Krupitzer">ResearchGate</a></em>. <br />
       <em>E-mail:</em> christian.krupitzer@uni-wuerzburg.de <br />
       <em>Phone:</em> +49 (931) 31 83252  <br /> <br />
     </div>
