@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Christian Krupitzer"
+title: "Dr. Christian Krupitzer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
