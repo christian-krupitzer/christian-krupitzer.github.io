@@ -18,8 +18,8 @@ My main research interests include Self-aware Computing Systems and Self-adaptiv
 
 <section class="vcard">
     <div>
-      You can follow me on LinkedIn via <em><a href="https://twitter.com/tomvog" target="_blank">@tomvog</a></em>. <br />
-      <em>E-mail:</em> {{site.email}}  <br />
+      You can follow me on <em><a href="https://www.linkedin.com/in/christian-krupitzer/">LinkedIn</a></em>. <br />
+      <em>E-mail:</em> christian.krupitzer@uni-wuerzburg.de <br />
       <em>Phone:</em> +49 (931) 31 83252  <br /> <br />
     </div>
     <div class="contactleft">
