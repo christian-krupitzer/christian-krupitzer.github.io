@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-**2020**
+## 2020
 * To Fail Or Not To Fail: Predicting Hard Disk Drive Failure Time Windows [Conference]  
  Marwin Züfle, Christian Krupitzer, Florian Erhard, Johannes Grohmann, and Samuel Kounev  
  GI/ITG Conference on Measurement, Modelling and Evaluation of Computing Systems (MMB), 2020
@@ -22,7 +22,7 @@ author_profile: true
                 	Dennis Kaiser, Veronika Lesch, Julian Rothe, Michael Strohmeier, Florian Spiess, Christian Krupitzer, Sergio Montenegro, and Samuel Kounev   
                 	MDPI Computers  
 
-**2019**
+## 2019
 					
 * Towards a QoS-aware Cyber Physical Networking Middleware Architecture [Workshop]    
 				Melanie Brinkschulte, Christian Becker, and Christian Krupitzer   
@@ -59,7 +59,7 @@ author_profile: true
 			    Stefan Herrnleben, Martin Pfannemüller, Christian Krupitzer, Samuel Kounev, Michele Segata, Felix Fastnacht, and Magnus Nigmann   
 			    IEEE International Conference on Pervasive Computing and Communications Workshops, 2019   
 				
-**2018**
+## 2018
 
 * Towards Infrastructure-Aided Self-Organized Hybrid Platooning [Conference]   
                 Christian Krupitzer, Michele Segata, Martin Breitbach, Samy S. El-Tawab, Sven Tomforde, and Christian Becker   
@@ -78,7 +78,7 @@ author_profile: true
 			    Christian Krupitzer, Guido Drechsel, Deborah Mateja, Alina Pollkläsener, Florian Schrage, Timo Sturm, Aleksandar Tomasovic, and Christian Becker   
 			    IEEE International Conference on Pervasive Computing and Communications Workshops, 2018   
 				
-**2017**
+## 2017
 
 * Transferring an Interactive Display Service to the Virtual Reality [Conference]   
 	            Jens Naber, Christian Krupitzer, and Christian Becker   
@@ -103,7 +103,7 @@ author_profile: true
                 Martin, Pfannemüller, Christian Krupitzer, Markus Weckesser, and Christian Becker   
                 IEEE International Workshops on Foundations and Applications of Self* Systems, 2017    
 
-**2016**
+## 2016
 
 * FESAS IDE: An Integrated Development Environment for Autonomic Computing [Conference]    
                 Christian Krupitzer, Felix Roth, Christian Becker, Markus Weckesser, Malte Lochau, and Andy Schürr   
@@ -113,7 +113,7 @@ author_profile: true
                 Christian Krupitzer, Felix Roth, Martin Pfannemüller, and Christian Becker   
                 IEEE International Conference on Autonomic Computing Workshops, 2016   
 
-**2015**
+## 2015
 
 * Towards Reusability in Autonomic Computing [Conference]    
                 Christian Krupitzer, Felix Roth, Sebastian VanSyckel, and Christian Becker   
@@ -127,7 +127,7 @@ author_profile: true
                 Christian Krupitzer, Felix Roth, Sebastian VanSyckel, Gregoer Schiele, and Christian Becker   
                 Pervasive and Mobile Computing Journal, 2015   
 
-**2014**
+## 2014
 
 * Nature-Inspired Interference Management in Smart Peer Groups [Conference]   
                 Felix Roth, Christian. Krupitzer, Sebastian VanSyckel, and Christian Becker   
@@ -141,7 +141,7 @@ author_profile: true
                 Janick Edinger, Sebastian VanSyckel, Christian Krupitzer, Justin Mazzola Paluska, and Christian Becker   
                 IEEE International Conference on Pervasive Computing and Communications Workshops, 2014   
 
-**2013**
+## 2013
 
 * COMITY: Coordinated Application Adaptation in Multi-Platform Pervasive Systems [Conference]   
                 Verena Majuntke, Sebastian VanSyckel, Dominik Schäfer, Christian Krupitzer, Gregor Schiele, and Christian Becker   
