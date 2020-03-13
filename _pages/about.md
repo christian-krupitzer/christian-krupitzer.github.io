@@ -24,7 +24,7 @@ My main research interests include Self-aware Computing Systems and Self-adaptiv
     </div>
     <div class="contactleft">
       <em>Mail Address</em> <br />
-      Chair of Software Engineering (Informatik II) <br />
+      Chair of Software Engineering <br />
       University of Würzburg <br />
       Am Hubland <br />
       97074 Würzburg <br />
