@@ -195,6 +195,22 @@
    Social sharing
    ========================================================================== */
 
+.vcard {
+  width: 100%;
+	margin: auto;
+  padding: 0px;
+	font-size: 1em;
+	line-height: 120%;
+}
+.contactleft {
+    width: 50%;
+    float: left;
+}
+.contactright {
+    margin-left: 15%;
+}
+
+
 .page__share {
   margin-top: 2em;
   padding-top: 1em;
