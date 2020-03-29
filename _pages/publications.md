@@ -75,22 +75,22 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **Towards Infrastructure-Aided Self-Organized Hybrid Platooning** [Conference]   
 Christian Krupitzer, Michele Segata, Martin Breitbach, Samy S. El-Tawab, Sven Tomforde, and Christian Becker   
 IEEE Global Conference on Internet of Things (GC-IoT), 2018   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8620134) | [Download PDF](https://christian-krupitzer.github.io/files/2018_GC-IoT_Towards Infrastructure-Aided Self-Organized Hybrid Platooning.pdf) ]
 * **SATISFy: Towards a self-learning analyzer for time series forecasting in self-improving systems** [Workshop]   
 Christian Krupitzer, Martin Pfannemüller, Jean Kaddour, and Christian Becker   
-IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2018  [ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ] 
+IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2018  [ [Link to Publication](https://ieeexplore.ieee.org/document/8599552?rs=true) | [Download PDF](https://christian-krupitzer.github.io/files/2018_SISSY_Satisfy.pdf) ] 
 * **A framework for engineering reusable self-adaptive systems** [Dissertation]   
 Christian Krupitzer   
 Universität Mannheim, Germany, 2018   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://madoc.bib.uni-mannheim.de/46346/) | [Download PDF](https://madoc.bib.uni-mannheim.de/46346/1/Diss_Krupitzer_FESAS.pdf) ]
 * **Hips do lie! A Position-Aware Mobile Fall Detection System** [Conference]   
 Christian Krupitzer, Timo Sztyler, Janick Edinger, Martin Breitbach, Heiner Stuckenschmidt, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2018  
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8444583) | [Download PDF](https://christian-krupitzer.github.io/files/2018_PerCom_Hips Do Lie - A Position-Aware Mobile Fall Detection System.pdf) ]
 * **Using Spreadsheet-defined Rules for Reasoning in Self-Adaptive Systems** [Workshop]   
 Christian Krupitzer, Guido Drechsel, Deborah Mateja, Alina Pollkläsener, Florian Schrage, Timo Sturm, Aleksandar Tomasovic, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2018   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8480283/) | [Download PDF](https://christian-krupitzer.github.io/files/2018_PerIoT_Using Spreadsheet-deﬁned Rules for Reasoning in Self-Adaptive Systems.pdf) ]
 				
 ## 2017
 ---
