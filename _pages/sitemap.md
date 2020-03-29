@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Sitemap"
-permalink: /sitemap/
+title: "Impressum"
+permalink: /impressum/
 author_profile: true
 ---
 
 <p>Christian Krupitzer</p>
-<p>{{site.email}}</p>
+<p>christiankrupitzer (at) gmail.com</p>
 
 <h1>Datenschutzerklärung</h1>
 <h2 id="m14">Einleitung</h2>
