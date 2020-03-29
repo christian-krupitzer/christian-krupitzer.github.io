@@ -31,33 +31,43 @@ MDPI Computers, 2020
 * **Towards a QoS-aware Cyber Physical Networking Middleware Architecture** [Workshop]    
 Melanie Brinkschulte, Christian Becker, and Christian Krupitzer   
 International Workshop on Middleware for Lightweight, Spontaneous Environments (MISE) @ ACM/IFIP/USENIX MIDDLEWARE, 2019   
+[ [Link to Publication](https://dl.acm.org/doi/10.1145/3366616.3368149) | [Download PDF](https://christian-krupitzer.github.io/files/2019_MISE_Towards a QoS-aware Cyber Physical Networking Middleware Architecture.pdf) ]
 * **A survey on adaptive authentication** [Journal]   
 Patricia Arias-Cabarcos, Christian Krupitzer, and Christian Becker   
 ACM Computing Surveys, 2019   
+[ [Link to Publication](https://dl.acm.org/doi/10.1145/3336117) | [Download PDF](https://christian-krupitzer.github.io/files/2019_CSUR_A survey on Adaptive Authentication.pdf) ]
 * **Beyond Position-Awareness - Extending a Self-Adaptive Fall Detection System** [Journal]   
 Christian Krupitzer, Timo Sztyler, Janick Edinger, Martin Breitbach, Heiner Stuckenschmidt, and Christian Becker   
 Elsevier Pervasive and Mobile Computing, 2019   
+[ [Link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S1574119218303493) | [Download PDF](https://christian-krupitzer.github.io/files/2019_PMCJ_Beyond position-awareness - Extending a self-adaptive fall detection system.pdf) ]
 * **A Modular Simulation Framework for Analyzing Platooning Coordination** [Workshop]   
 Christian Krupitzer, Veronika Lesch, Martin Pfannemüller, Christian Becker, and Michele Segata   
 ACM Workshop on Technologies, Models, and Protocols for Cooperative Connected Cars (TOP-CARS) @ ACM MobiHoc, 2019   
+[ [Link to Publication](https://dl.acm.org/doi/10.1145/3331054.3331550) | [Download PDF](https://christian-krupitzer.github.io/files/2019_TOP-CARS_A Modular Simulation Framework for Analyzing Platooning Coordination.pdf) ]
 * **Emerging Self-Integration through Coordination of Autonomous Adaptive Systems** [Workshop]   
 Veronika Lesch, Christian Krupitzer, and Sven Tomforde   
-IEEE International Workshops on Foundations and Applications of Self* **Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2019   
+IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2019  
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8791950) | [Download PDF](https://christian-krupitzer.github.io/files/2019_SISSY__Emerging_Self_Integration_through_Coordination_of_Autonomous_Adaptive_Systems.pdf) ]
 * **Autonomic Forecasting Method Selection: Examination and Ways Ahead** [Conference]   
 Marwin Züfle, andré Bauer, Veronika Lesch, Christian Krupitzer, Nikolas Herbst, Samuel Kounev, and Valentin Curtef   
-IEEE International Conference on Autonomic Computing (ICAC), 2019   
+IEEE International Conference on Autonomic Computing (ICAC), 2019  
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8831197) | [Download PDF](https://christian-krupitzer.github.io/files/2019_ICAC_Autonomic Forecasting Method Selection - Examination and Ways Ahead.pdf) ]
 * **Planning as optimization: Dynamically discovering optimal configurations for runtime situations** [Conference]   
 Erik M. Fredericks, Ilias Gerostathopoulos, Christian Krupitzer , and Thomas Vogel    
 IEEE International Conference on Self-Adaptive and Self-Organizing Systems (SASO), 2019  
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8780559/) | [Download PDF](https://christian-krupitzer.github.io/files/2019_SASO_Planning as Optimization.pdf) ]
 * **Multi-objective Optimisation in Hybrid Collaborating Adaptive Systems** [Workshop]   
 Veronika Lesch, Christian Krupitzer, and Sven Tomforde    
 Series on Autonomously Learning and Optimising Systems (SAOS) @ International Conference on Architecture of Computing Systems (ARCS), 2019   
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8836195) | [Download PDF](https://christian-krupitzer.github.io/files/2019_SAOS_Multi-objective Optimisation in Hybrid Collaborating Adaptive Systems.pdf) ]
 * **WheelShare: Crowd-sensed Surface Classification for Accessible Routing** [Workshop]   
 Janick Edinger, Vaskar Raychoudhury, Alexandra Hofmann, Anton Wachner, Christian Becker, Christian Krupitzer   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2019   
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8730849) | [Download PDF](https://christian-krupitzer.github.io/files/2019_TSUM_WheelShare - Crowd-sensed Surface Classiﬁcation for Accessible Routing.pdf) ]
 * **Towards adaptive Car-to-Cloud communication** [Workshop]   
 Stefan Herrnleben, Martin Pfannemüller, Christian Krupitzer, Samuel Kounev, Michele Segata, Felix Fastnacht, and Magnus Nigmann   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2019   
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8730766) | [Download PDF](https://christian-krupitzer.github.io/files/2019_PerAwareCity_Towards Adaptive Car-to-Cloud Communication.pdf) ]
 				
 ## 2018
 ---
@@ -65,18 +75,22 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **Towards Infrastructure-Aided Self-Organized Hybrid Platooning** [Conference]   
 Christian Krupitzer, Michele Segata, Martin Breitbach, Samy S. El-Tawab, Sven Tomforde, and Christian Becker   
 IEEE Global Conference on Internet of Things (GC-IoT), 2018   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **SATISFy: Towards a self-learning analyzer for time series forecasting in self-improving systems** [Workshop]   
 Christian Krupitzer, Martin Pfannemüller, Jean Kaddour, and Christian Becker   
-IEEE International Workshops on Foundations and Applications of Self* **Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2018   
+IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2018  [ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ] 
 * **A framework for engineering reusable self-adaptive systems** [Dissertation]   
 Christian Krupitzer   
 Universität Mannheim, Germany, 2018   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Hips do lie! A Position-Aware Mobile Fall Detection System** [Conference]   
 Christian Krupitzer, Timo Sztyler, Janick Edinger, Martin Breitbach, Heiner Stuckenschmidt, and Christian Becker   
-IEEE International Conference on Pervasive Computing and Communications (PerCom), 2018
+IEEE International Conference on Pervasive Computing and Communications (PerCom), 2018  
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Using Spreadsheet-defined Rules for Reasoning in Self-Adaptive Systems** [Workshop]   
 Christian Krupitzer, Guido Drechsel, Deborah Mateja, Alina Pollkläsener, Florian Schrage, Timo Sturm, Aleksandar Tomasovic, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2018   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 				
 ## 2017
 ---
@@ -84,21 +98,27 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **Transferring an Interactive Display Service to the Virtual Reality** [Conference]   
 Jens Naber, Christian Krupitzer, and Christian Becker   
 International Conference on Smart Computing (SmartComp), 2017   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Adding Self-improvement to an Autonomous Traffic Management System** [Conference]   
 Christian Krupitzer, Julian Otto, Felix Roth, Alexander Frömmgen, and Christian Becker   
 IEEE International Conference on Autonomic Computing (ICAC), 2017   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Fault-Avoidance Strategies for Context-Aware Schedulers in Pervasive Computing Systems** [Conference]   
 Janick Edinger, Dominik Schäfer, Christian Krupitzer, Vaskar Raychoudhury, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2017   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **RoCoSys: A Framework for Coordination of Mobile IoT Devices** [Workshop]   
 Christian Krupitzer, Martin Breitbach, Johannes Saal, Christian Becker, Michele Segata, and Renato Lo Cigno   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2017   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **On the Design of Distributed Adaptive Authentication Systems** [Conference]   
 Patricia Arias-Cabarcos, and Christian Krupitzer   
 USENIX Annual Technical Conference, 2017   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **A Dynamic Software Product Line Approach for Adaptation Planning in Autonomic Computing Systems** [Workshop]   
 Martin, Pfannemüller, Christian Krupitzer, Markus Weckesser, and Christian Becker   
-IEEE International Workshops on Foundations and Applications of Self* **Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2017    
+IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2017    
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 
 ## 2016
 ---
@@ -106,9 +126,11 @@ IEEE International Workshops on Foundations and Applications of Self* **Systems 
 * **FESAS IDE: An Integrated Development Environment for Autonomic Computing** [Conference]    
 Christian Krupitzer, Felix Roth, Christian Becker, Markus Weckesser, Malte Lochau, and Andy Schürr   
 IEEE International Conference on Autonomic Computing (ICAC), 2016   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Comparison of Approaches for Self-Improvement in Self-Adaptive Systems** [Conference]   
 Christian Krupitzer, Felix Roth, Martin Pfannemüller, and Christian Becker   
 IEEE International Conference on Autonomic Computing (ICAC) Workshops, 2016   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 
 ## 2015
 ---
@@ -116,12 +138,15 @@ IEEE International Conference on Autonomic Computing (ICAC) Workshops, 2016
 * **Towards Reusability in Autonomic Computing** [Conference]    
 Christian Krupitzer, Felix Roth, Sebastian VanSyckel, and Christian Becker   
 IEEE International Conference on Autonomic Computing (ICAC), 2015   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Runtime Evolution of the Adaptation Logic in Self-Adaptive Systems** [Poster]   
 Felix Roth, Christian Krupitzer, and Christian Becker   
 IEEE International Conference on Autonomic Computing (ICAC), 2015   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **A survey on engineering approaches for self-adaptive systems** [Journal]   
 Christian Krupitzer, Felix Roth, Sebastian VanSyckel, Gregoer Schiele, and Christian Becker   
 Pervasive and Mobile Computing Journal, 2015   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 
 ## 2014
 ---
@@ -129,12 +154,15 @@ Pervasive and Mobile Computing Journal, 2015
 * **Nature-Inspired Interference Management in Smart Peer Groups** [Conference]   
 Felix Roth, Christian. Krupitzer, Sebastian VanSyckel, and Christian Becker   
 International Conference on Intelligent Environments (IE), 2014   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **COMITY: A Framework for Adaptation Coordination in Multi-Platform Pervasive Systems** [Journal]   
 Sebastian VanSyckel, Dominik Schäfer, Verena Majuntke, Christian Krupitzer, Gregor Schiele, and Christian Becker   
 Pervasive and Mobile Computing Journal, 2014   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **Developing a QoS-based Tasklet trading system** [Workshop]   
 Janick Edinger, Sebastian VanSyckel, Christian Krupitzer, Justin Mazzola Paluska, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2014   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 
 ## 2013
 ---
@@ -142,6 +170,8 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **COMITY: Coordinated Application Adaptation in Multi-Platform Pervasive Systems** [Conference]   
 Verena Majuntke, Sebastian VanSyckel, Dominik Schäfer, Christian Krupitzer, Gregor Schiele, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2013   
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
 * **FESAS: Towards a Framework for Engineering Self-Adaptive Systems** [Poster]   
 Christian Krupitzer, Sebastian VanSyckel, and Christian Becker    
-IEEE International Conferences on Self-Adaptive and Self-Organizing Systems (SASO), 2013
+IEEE International Conferences on Self-Adaptive and Self-Organizing Systems (SASO), 2013  
+[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
