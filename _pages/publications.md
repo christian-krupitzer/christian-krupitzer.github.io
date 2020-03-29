@@ -154,15 +154,15 @@ Pervasive and Mobile Computing Journal, 2015
 * **Nature-Inspired Interference Management in Smart Peer Groups** [Conference]   
 Felix Roth, Christian. Krupitzer, Sebastian VanSyckel, and Christian Becker   
 International Conference on Intelligent Environments (IE), 2014   
-[ [Link to Publication]() | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://dl.acm.org/doi/10.1109/IE.2014.27) | [Open PDF](https://christian-krupitzer.github.io/files/2014_IE_Nature-Inspired Interference Management in Smart Peer Groups.pdf) ]
 * **COMITY: A Framework for Adaptation Coordination in Multi-Platform Pervasive Systems** [Journal]   
 Sebastian VanSyckel, Dominik Schäfer, Verena Majuntke, Christian Krupitzer, Gregor Schiele, and Christian Becker   
 Pervasive and Mobile Computing Journal, 2014   
-[ [Link to Publication]() | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://www.sciencedirect.com/science/article/pii/S1574119213001302) | [Open PDF](https://christian-krupitzer.github.io/files/2013_PMCJ_COMITY - A Framework for Adaptation Coordination in Multi-Platform Pervasive Systems.pdf) ]
 * **Developing a QoS-based Tasklet trading system** [Workshop]   
 Janick Edinger, Sebastian VanSyckel, Christian Krupitzer, Justin Mazzola Paluska, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2014   
-[ [Link to Publication]() | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/6815242/) | [Open PDF](https://christian-krupitzer.github.io/files/2014_IQ2S_Developing a QoS-based Tasklet Trading System.pdf) ]
 
 ## 2013
 ---
@@ -170,8 +170,8 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **COMITY: Coordinated Application Adaptation in Multi-Platform Pervasive Systems** [Conference]   
 Verena Majuntke, Sebastian VanSyckel, Dominik Schäfer, Christian Krupitzer, Gregor Schiele, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2013   
-[ [Link to Publication]() | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/6526709) | [Open PDF](https://christian-krupitzer.github.io/files/2013_PerCom_COMITY - Coordinated application adaptation in multi-platform pervasive systems.pdf) ]
 * **FESAS: Towards a Framework for Engineering Self-Adaptive Systems** [Poster]   
 Christian Krupitzer, Sebastian VanSyckel, and Christian Becker    
 IEEE International Conferences on Self-Adaptive and Self-Organizing Systems (SASO), 2013  
-[ [Link to Publication]() | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/6676516) | [Open PDF](https://christian-krupitzer.github.io/files/2013_OCDDC_FESAS - A Framework for Engineering.pdf) ]
