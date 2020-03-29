@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Awards and Scholarships
+---
 
  * Best Paper Nominee at IEEE International Conference on Pervasive Computing and Communications (PerCom 2018)
  * IEEE CS TCPP & TCCC Travel Grant (Conference Scholarship - 2018)
@@ -17,6 +18,7 @@ redirect_from:
  * Confinpro AG (Scholarship - 2011)
 
 ## General Chair
+---
 
  * 4th International Workshop on Self-aware Computing Systems (SeAC 2020) @ 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)
  * 8th International Organic Computing Doctoral Dissertation Colloquium (OC-DDC 2020) 
@@ -26,6 +28,7 @@ redirect_from:
 
 
 ## Program Committee
+---
 
  * 1st International Workshop on Cyber Resilience and Antifragility in Complex, Distributed Systems (CyRA) @ 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)
  * 	Poster and Demo Track @ 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)
@@ -52,6 +55,7 @@ redirect_from:
 
  
 ## Further Academic Responsibilities
+---
 
  * **Publicity Administration Assistant** for International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)
  * **Web Chair** for 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)
@@ -60,9 +64,8 @@ redirect_from:
  * **Publicity Chair** for International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2019) @ IEEE International Conference on Pervasive Computing and Communications (PerCom 2019)
  * **Session Chair** at the 15th IEEE International Conference on Autonomic Computing (ICAC 2018)
 
-
- 
 ## Reviewer
+---
 
  * IEEE Internet of Things Journal (IoTJ)
  * ACM Transactions on Autonomous and Adaptive Systems (TAAS)
@@ -111,6 +114,3 @@ redirect_from:
  * 11th Annual IEEE Consumer Communications and Networking Conference (CCNC 2014)
  * 10th International Conference on Mobile and Ubiquitous Systems: Computing, Networking and Services (MobiQuitous 2013)
  * 1st Organic Computing Doctoral Dissertation Colloquium (OC-DDC'13)
-
-
-
