@@ -60,7 +60,7 @@ Furthermore, in the area of IoT and CPS I have active cooperations with research
 Common cross-sectional topics for all areas are evaluation with (1) simulations or hardware testbeds, (2) by integrating data from real production systems or (3) by applying the methodologies/prototypes in real (test) systems.
 
 
-## Application of machine learning in adaptive systems
+## Application of Machine Learning in Adaptive Systems
 
 The third thread of my research deals with data mining and machine learning. 
 Basic for adaptive functionality of software is the analysis of the current state of the system and system environment or the prediction of future system and environment states as well as the planning of new system configurations to adapt to changes in the system or its environment.
