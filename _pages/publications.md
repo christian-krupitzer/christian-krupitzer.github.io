@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 ## 2020  
-======
-
+---
 
 * **To Fail Or Not To Fail: Predicting Hard Disk Drive Failure Time Windows** [Conference]  
  Marwin Züfle, Christian Krupitzer, Florian Erhard, Johannes Grohmann, and Samuel Kounev  
@@ -57,7 +56,6 @@ Stefan Herrnleben, Martin Pfannemüller, Christian Krupitzer, Samuel Kounev, Mic
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2019   
 				
 ## 2018
-
 ---
 
 * **Towards Infrastructure-Aided Self-Organized Hybrid Platooning** [Conference]   
@@ -77,7 +75,7 @@ Christian Krupitzer, Guido Drechsel, Deborah Mateja, Alina Pollkläsener, Floria
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2018   
 				
 ## 2017
-======
+---
 
 * **Transferring an Interactive Display Service to the Virtual Reality** [Conference]   
 Jens Naber, Christian Krupitzer, and Christian Becker   
@@ -99,7 +97,7 @@ Martin, Pfannemüller, Christian Krupitzer, Markus Weckesser, and Christian Beck
 IEEE International Workshops on Foundations and Applications of Self* **Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2017    
 
 ## 2016
-======
+---
 
 * **FESAS IDE: An Integrated Development Environment for Autonomic Computing** [Conference]    
 Christian Krupitzer, Felix Roth, Christian Becker, Markus Weckesser, Malte Lochau, and Andy Schürr   
@@ -109,7 +107,7 @@ Christian Krupitzer, Felix Roth, Martin Pfannemüller, and Christian Becker
 IEEE International Conference on Autonomic Computing (ICAC) Workshops, 2016   
 
 ## 2015
-======
+---
 
 * **Towards Reusability in Autonomic Computing** [Conference]    
 Christian Krupitzer, Felix Roth, Sebastian VanSyckel, and Christian Becker   
@@ -122,7 +120,7 @@ Christian Krupitzer, Felix Roth, Sebastian VanSyckel, Gregoer Schiele, and Chris
 Pervasive and Mobile Computing Journal, 2015   
 
 ## 2014
-======
+---
 
 * **Nature-Inspired Interference Management in Smart Peer Groups** [Conference]   
 Felix Roth, Christian. Krupitzer, Sebastian VanSyckel, and Christian Becker   
@@ -135,7 +133,7 @@ Janick Edinger, Sebastian VanSyckel, Christian Krupitzer, Justin Mazzola Paluska
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2014   
 
 ## 2013
-======
+---
 
 * **COMITY: Coordinated Application Adaptation in Multi-Platform Pervasive Systems** [Conference]   
 Verena Majuntke, Sebastian VanSyckel, Dominik Schäfer, Christian Krupitzer, Gregor Schiele, and Christian Becker   
