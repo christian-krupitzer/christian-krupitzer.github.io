@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-## 2020
+## 2020  
 ======
 
 
@@ -23,7 +23,7 @@ Dennis Kaiser, Veronika Lesch, Julian Rothe, Michael Strohmeier, Florian Spiess,
 MDPI Computers, 2020  
 
 ## 2019
-======
+---
 
 * **Towards a QoS-aware Cyber Physical Networking Middleware Architecture** [Workshop]    
 Melanie Brinkschulte, Christian Becker, and Christian Krupitzer   
@@ -57,7 +57,8 @@ Stefan Herrnleben, Martin Pfannemüller, Christian Krupitzer, Samuel Kounev, Mic
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2019   
 				
 ## 2018
-======
+
+---
 
 * **Towards Infrastructure-Aided Self-Organized Hybrid Platooning** [Conference]   
 Christian Krupitzer, Michele Segata, Martin Breitbach, Samy S. El-Tawab, Sven Tomforde, and Christian Becker   
