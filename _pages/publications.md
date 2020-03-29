@@ -8,6 +8,10 @@ author_profile: true
 ## 2020  
 ---
 
+* **Introduction to the Special Issue "Applications in Self-Aware Computing Systems and their Evaluation"** [Editorial]  
+  Christian Krupitzer, Benedikt Eberhardinger, Ilias Gerostathopoulos, and Claudia Raibulet   
+  MDPI Computers, 2020  
+  [ [Link to Publication](https://www.mdpi.com/2073-431X/9/1/22) | [Open PDF](https://christian-krupitzer.github.io/files/2020_Computers_SeAC-SI_Intro.pdf) ]
 * **To Fail Or Not To Fail: Predicting Hard Disk Drive Failure Time Windows** [Conference]  
  Marwin Züfle, Christian Krupitzer, Florian Erhard, Johannes Grohmann, and Samuel Kounev  
  GI/ITG Conference on Measurement, Modelling and Evaluation of Computing Systems (MMB), 2020  
@@ -32,6 +36,10 @@ MDPI Computers, 2020
 Melanie Brinkschulte, Christian Becker, and Christian Krupitzer   
 International Workshop on Middleware for Lightweight, Spontaneous Environments (MISE) @ ACM/IFIP/USENIX MIDDLEWARE, 2019   
 [ [Link to Publication](https://dl.acm.org/doi/10.1145/3366616.3368149) | [Open PDF](https://christian-krupitzer.github.io/files/2019_MISE_Towards a QoS-aware Cyber Physical Networking Middleware Architecture.pdf) ]
+* **The organic computing doctoral dissertation colloquium: Status and overview in 2019** [Workshop]  
+Christian Krupitzer and Sven Tomforde  
+GI Informatik, 2019  
+[ [Link to Publication](https://dl.gi.de/handle/20.500.12116/25093) | [Open PDF](https://christian-krupitzer.github.io/files/2019_OCDDC_Report.pdf) ]
 * **A survey on adaptive authentication** [Journal]   
 Patricia Arias-Cabarcos, Christian Krupitzer, and Christian Becker   
 ACM Computing Surveys, 2019   
