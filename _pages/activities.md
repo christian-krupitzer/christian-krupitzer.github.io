@@ -9,12 +9,12 @@ redirect_from:
 
 ## Awards and Scholarships
 
- * **Best Paper Nominee** IEEE International Conference on Pervasive Computing and Communications (PerCom 2018)
- * **KonfeConference Scholarshiprenzstipendium** IEEE CS TCPP & TCCC Travel Grant (2018)
- * **Conference Scholarship** DAAD congress travel programme  (2018)
- * **Conference Scholarship** Julius-Paul-Stiegler-Gedächtnis-Stiftung (2015)
- * **Scholarship** DAAD IPID4all Program (2014)
- * **Student Scholarship** Confinpro AG (2011)
+ * Best Paper Nominee at IEEE International Conference on Pervasive Computing and Communications (PerCom 2018)
+ * IEEE CS TCPP & TCCC Travel Grant (Conference Scholarship - 2018)
+ * DAAD Travel Grant (Conference Scholarship - 2018)
+ * Julius-Paul-Stiegler-Gedächtnis-Stiftung (Conference Scholarship - 2015)
+ * DAAD IPID4all Program (Research Scholarship - 2014)
+ * Confinpro AG (Scholarship - 2011)
 
 ## General Chair
 
