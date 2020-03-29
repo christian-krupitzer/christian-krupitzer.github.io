@@ -11,18 +11,19 @@ author_profile: true
 * **To Fail Or Not To Fail: Predicting Hard Disk Drive Failure Time Windows** [Conference]  
  Marwin Züfle, Christian Krupitzer, Florian Erhard, Johannes Grohmann, and Samuel Kounev  
  GI/ITG Conference on Measurement, Modelling and Evaluation of Computing Systems (MMB), 2020  
- [ [Link to Publication]() | [Download PDF]() ]
+ [ [Link to Publication](https://link.springer.com/chapter/10.1007/978-3-030-43024-5_2) | [Download PDF](https://christian-krupitzer.github.io/files/2020_MMB_HDD_Failure_Prediction.pdf) ]
 * **A Survey on Predictive Maintenance for Industry 4.0** [Technical Report]  
  Christian Krupitzer, Tim Wagenhals, Marwin Züfle, Veronika Lesch, Dominik Schäfer, Amin Mozaffarin, Janick Edinger, Christian Becker, and Samuel Kounev  
  arXiv, 2020  
-  [ [Link to Publication](https://arxiv.org/abs/2002.08224) | [Download PDF]() ]
+ [ [Link to Publication](https://arxiv.org/abs/2002.08224) | [Download PDF](https://christian-krupitzer.github.io/files/2020_arxiv_Predictive Maintenance.pdf) ]
 * **Survey on Human Machine Interaction in Industry 4.0** [Technical Report]   
  Christian Krupitzer, Sebastian Müller, Veronika Lesch, Marwin Züfle, Janick Edinger, Alexander Lemken, Dominik Schäfer, Samuel Kounev, and Christian Becker   
  arXiv, 2020  
-  [ [Link to Publication](https://arxiv.org/abs/2002.01025) | [Download PDF]() ]
+  [ [Link to Publication](https://arxiv.org/abs/2002.01025) | [Download PDF](https://christian-krupitzer.github.io/files/2020_arXiv_HMI in Industry 4.0 Survey.pdf) ]
 * **Towards Self-Aware Multirotor Formations** [Journal]   
 Dennis Kaiser, Veronika Lesch, Julian Rothe, Michael Strohmeier, Florian Spiess, Christian Krupitzer, Sergio Montenegro, and Samuel Kounev   
 MDPI Computers, 2020  
+[ [Link to Publication](https://www.mdpi.com/2073-431X/9/1/7) | [Download PDF](https://christian-krupitzer.github.io/files/2020_Computers_Towards Self-Aware Multirotor Formations.pdf) ]
 
 ## 2019
 ---
