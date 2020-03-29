@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ## Invited Talks
+---
 
 * Research Talk @ Distributed Systems Group, University of Duisburg-Essen: **Software Engineering for Adaptive Systeme: Next Generation MAPE Control**
 * Public Talk @ Universitätsbund Würzburg „Hörsaal on Tour“, Gemünden: **Autofahren der Zukunft: autonom, vernetzt, gefährlich?**
@@ -29,6 +30,7 @@ author_profile: true
 
 
 ## Conference Presentations 
+---
 
 * Keynote @ Organic Computing Doctoral Dissertation Colloquium: **Next Generation MAPE Control – Current Research Trends in Adaptive Systems**
 * Conference Presentation @ Workshop on Self-Improving System Integration: **SATISFy: Towards a self-learning analyzer for time series forecasting in self-improving systems**
@@ -45,6 +47,7 @@ author_profile: true
 
 
 ## Guest Lectures
+---
 
 * Guest Lecture @ Self-organizing Systems Vorlesung, Universität Mannheim: **Next Generation MAPE Control: Current Research Trends in Adaptive Systems**
 * Guest Lecture @ Pervasing Computing Vorlesung, Universität Mannheim: **Pervasive Computing in Sports**
