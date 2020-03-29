@@ -98,27 +98,27 @@ IEEE International Conference on Pervasive Computing and Communications Workshop
 * **Transferring an Interactive Display Service to the Virtual Reality** [Conference]   
 Jens Naber, Christian Krupitzer, and Christian Becker   
 International Conference on Smart Computing (SmartComp), 2017   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/7947054/) | [Download PDF](https://christian-krupitzer.github.io/files/2017_SmartComp_Transferring an Interactive Display Service to the Virtual Reality.pdf) ]
 * **Adding Self-improvement to an Autonomous Traffic Management System** [Conference]   
 Christian Krupitzer, Julian Otto, Felix Roth, Alexander Frömmgen, and Christian Becker   
 IEEE International Conference on Autonomic Computing (ICAC), 2017   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/8005351) | [Download PDF](https://christian-krupitzer.github.io/files/2017_ICAC_Adding Self-improvement to an Autonomic Traffic Management System.pdf) ]
 * **Fault-Avoidance Strategies for Context-Aware Schedulers in Pervasive Computing Systems** [Conference]   
 Janick Edinger, Dominik Schäfer, Christian Krupitzer, Vaskar Raychoudhury, and Christian Becker   
 IEEE International Conference on Pervasive Computing and Communications (PerCom), 2017   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/7917853) | [Download PDF](https://christian-krupitzer.github.io/files/2017_PerCom_Fault-Avoidance Strategies for Context-Aware Schedulers in Pervasive Computing Systems.pdf) ]
 * **RoCoSys: A Framework for Coordination of Mobile IoT Devices** [Workshop]   
 Christian Krupitzer, Martin Breitbach, Johannes Saal, Christian Becker, Michele Segata, and Renato Lo Cigno   
 IEEE International Conference on Pervasive Computing and Communications Workshops (PerComW), 2017   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](https://ieeexplore.ieee.org/document/7917611) | [Download PDF](https://christian-krupitzer.github.io/files/2017_PerIoT_RoCoSys - A Framework for Coordination of Mobile IoT Devices.pdf) ]
 * **On the Design of Distributed Adaptive Authentication Systems** [Conference]   
 Patricia Arias-Cabarcos, and Christian Krupitzer   
-USENIX Annual Technical Conference, 2017   
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+USENIX Symposium on Usable Privacy and Security (SOUPS), 2017   
+[ [Link to Publication](https://www.usenix.org/conference/soups2017/workshop-program/way2017/arias-cabarcos) | [Download PDF](https://christian-krupitzer.github.io/files/2017_WAYS_On the Design of Distributed Adaptive Authentication.pdf) ]
 * **A Dynamic Software Product Line Approach for Adaptation Planning in Autonomic Computing Systems** [Workshop]   
 Martin, Pfannemüller, Christian Krupitzer, Markus Weckesser, and Christian Becker   
 IEEE International Workshops on Foundations and Applications of Self* Systems (FAS*) @ IEEE International Conference on Autonomic Computing ICAC), 2017    
-[ [Link to Publication]() | [Download PDF](https://christian-krupitzer.github.io/files/.pdf) ]
+[ [Link to Publication](http://ieeexplore.ieee.org/document/8005357/) | [Download PDF](https://christian-krupitzer.github.io/files/2017_ICAC_A Dynamic Software Product Line Approach for Adaptation Planning in Autonomic Computing Systems.pdf) ]
 
 ## 2016
 ---
