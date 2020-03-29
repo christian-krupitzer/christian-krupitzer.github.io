@@ -18,6 +18,7 @@ In the following, these three strands of my research are presented.
 
 
 ## Software Engineering for Adaptive Systems
+---
 
 The increasing complexity and size of information systems results in increased expenditure for their maintenance.
 Additional complexity results from current trends in the areas of IoT and CPS, such as the miniaturization of computer devices, which leads to increased mobility of the systems and requires context-based adaptations.
@@ -40,6 +41,7 @@ Although this module is optimized for use with the FESAS Framework, it is self-c
 
 
 ## Internet of Things (IoT) and Cyber-physical Systems (CPS)
+---
 
 From the very beginning, the main goal of my PhD in the FESAS project was the broadest possible use of the findings in various system domains in the field of IoT and CPS.
 In the context of my dissertation, I used the FESAS framework for the implementation of self-adaptive software systems in nine different system domains.
@@ -61,6 +63,7 @@ Common cross-sectional topics for all areas are evaluation with (1) simulations 
 
 
 ## Application of Machine Learning in Adaptive Systems
+---
 
 The third thread of my research deals with data mining and machine learning. 
 Basic for adaptive functionality of software is the analysis of the current state of the system and system environment or the prediction of future system and environment states as well as the planning of new system configurations to adapt to changes in the system or its environment.
