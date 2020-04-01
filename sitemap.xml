@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://christian-krupitzer.github.io/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/publications/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/talks/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/teaching/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/research/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/activities/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/impressum/</loc>
+  <lastmod>2020-03-29T23:04:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2020_Computers_SeAC-SI_Intro.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2020_MMB_HDD_Failure_Prediction.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2020_arxiv_Predictive%20Maintenance.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2020_arXiv_HMI%20in%20Industry%204.0%20Survey.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2020_Computers_Towards%20Self-Aware%20Multirotor%20Formations.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_MISE_Towards%20a%20QoS-aware%20Cyber%20Physical%20Networking%20Middleware%20Architecture.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_OCDDC_Report.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_CSUR_A%20survey%20on%20Adaptive%20Authentication.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_PMCJ_Beyond%20position-awareness%20-%20Extending%20a%20self-adaptive%20fall%20detection%20system.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_TOP-CARS_A%20Modular%20Simulation%20Framework%20for%20Analyzing%20Platooning%20Coordination.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_SISSY__Emerging_Self_Integration_through_Coordination_of_Autonomous_Adaptive_Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_ICAC_Autonomic%20Forecasting%20Method%20Selection%20-%20Examination%20and%20Ways%20Ahead.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_SASO_Planning%20as%20Optimization.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_SAOS_Multi-objective%20Optimisation%20in%20Hybrid%20Collaborating%20Adaptive%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_TSUM_WheelShare%20-%20Crowd-sensed%20Surface%20Classi%EF%AC%81cation%20for%20Accessible%20Routing.pdf</loc>
+  <lastmod>2020-03-29T23:04:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2019_PerAwareCity_Towards%20Adaptive%20Car-to-Cloud%20Communication.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2018_GC-IoT_Towards%20Infrastructure-Aided%20Self-Organized%20Hybrid%20Platooning.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2018_SISSY_Satisfy.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2018_PerCom_Hips%20Do%20Lie%20-%20A%20Position-Aware%20Mobile%20Fall%20Detection%20System.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2018_PerIoT_Using%20Spreadsheet-de%EF%AC%81ned%20Rules%20for%20Reasoning%20in%20Self-Adaptive%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_SmartComp_Transferring%20an%20Interactive%20Display%20Service%20to%20the%20Virtual%20Reality.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_ICAC_Adding%20Self-improvement%20to%20an%20Autonomic%20Traffic%20Management%20System.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_PerCom_Fault-Avoidance%20Strategies%20for%20Context-Aware%20Schedulers%20in%20Pervasive%20Computing%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_PerIoT_RoCoSys%20-%20A%20Framework%20for%20Coordination%20of%20Mobile%20IoT%20Devices.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_WAYS_On%20the%20Design%20of%20Distributed%20Adaptive%20Authentication.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_ICAC_A%20Dynamic%20Software%20Product%20Line%20Approach%20for%20Adaptation%20Planning%20in%20Autonomic%20Computing%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2016_ICAC_FESAS%20IDE%20-%20An%20Integrated%20Development%20Environment%20for%20Autonomic%20Computing.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2017_SISSY2_Comparison%20of%20Approaches%20for%20Self-Improvement%20in%20Self-Adaptive%20Systems%20(Extended).pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2015_ICAC_Towards%20Reusability%20in%20Autonomic%20Computing.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2015_ICAC_Runtime%20Evolution%20of%20the%20Adaptation%20Logic%20in%20Self-Adaptive%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2018_PMCJ2_A%20Survey%20on%20Engineering%20Approaches%20for%20Self-Adaptive%20Systems%20(Extended).pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2014_IE_Nature-Inspired%20Interference%20Management%20in%20Smart%20Peer%20Groups.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2013_PMCJ_COMITY%20-%20A%20Framework%20for%20Adaptation%20Coordination%20in%20Multi-Platform%20Pervasive%20Systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2014_IQ2S_Developing%20a%20QoS-based%20Tasklet%20Trading%20System.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2013_PerCom_COMITY%20-%20Coordinated%20application%20adaptation%20in%20multi-platform%20pervasive%20systems.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://christian-krupitzer.github.io/files/2013_OCDDC_FESAS%20-%20A%20Framework%20for%20Engineering.pdf</loc>
+  <lastmod>2020-03-29T23:04:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
