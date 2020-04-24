@@ -59,6 +59,7 @@ redirect_from:
 
  * **Publicity Administration Assistant** for International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)
  * **Web Chair** for 1st International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS 2020)
+ * **Review Editor** of the Connected Mobility and Automation section of Frontiers in Future Transportation
  * **Guest Editor** of the Special Issue "Applications in Self-Aware Computing Systems and their Evaluation" @ MDPI Computers
  * **Publicity Chair** for International Workshop on Middleware for Lightweight, Spontaneous Environments (MISE 2019) @ ACM/IFIP/USENIX International Middleware Conference (MIDDLEWARE 2019)
  * **Publicity Chair** for International Workshop on Mobile and Pervasive Internet of Things (PerIoT 2019) @ IEEE International Conference on Pervasive Computing and Communications (PerCom 2019)
