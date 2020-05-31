@@ -10,7 +10,7 @@ author_profile: true
 * **A Taxonomy of Optimization Factors for Platooning** [Journal]  
   Timo Sturm, Christian Krupitzer, Michele Segata und Christian Becker  
   IEEE Transactions on Intelligent Transportation Systems, 2020  
-  [ [Link to Publication follows](https://ieeexplore.ieee.org/document/9103935) | [Open PDF](https://christian-krupitzer.github.io/files/2020_TITS_Platooning-Evaluation-Survey.pdf) ]
+  [ [Link to Publication](https://ieeexplore.ieee.org/document/9103935) | [Open PDF](https://christian-krupitzer.github.io/files/2020_TITS_Platooning-Evaluation-Survey.pdf) ]
 * **Introduction to the Special Issue "Applications in Self-Aware Computing Systems and their Evaluation"** [Editorial]  
   Christian Krupitzer, Benedikt Eberhardinger, Ilias Gerostathopoulos, and Claudia Raibulet   
   MDPI Computers, 2020  
