@@ -16,6 +16,8 @@ Adaptive systems often operate in unknown or changing environments and are also 
 In order to be able to react adequately to such changes, the integration of machine learning and data mining methods is essential.
 In the following, these three strands of my research are presented.
 
+Since October 2020, I am tenure track professor at the University of Hohenheim leading the Department of Food Informatics. The Department of Food Informatics operates interdisciplinary at the interface of food science, biotechnology, and computer science. The research focuses the digitalization of food production in a holistic approach that also includes the food supply chain, traders/distributors, and consumers. In cooperation with partners from industry and research, we transfer and optimize approaches, methods, and technology from the fields of artificial intelligence, predictive data analysis, Industry 4.0, adaptive software systems, and the Internet of Things to the domain of food processing. In this new domain, I can benefit from my previously gained knowledge about adaptive systems. The story will be continued....
+
 
 ## Software Engineering for Adaptive Systems
 ---
