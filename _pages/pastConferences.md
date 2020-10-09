@@ -28,7 +28,7 @@ author_profile: true
   <tr>
     <td class="tg-lboi"><a href="https://conf.researchr.org/home/acsos-2020">ACSOS 2020</a></td>
     <td class="tg-lboi">Virtual Conference</td>
-    <td class="tg-lboi">30%</td>
+    <td class="tg-lboi">25%</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Tarek El-Ghazawi, George Washington University, United States<br>Manish Parashar, Rutgers University, United States<br>Jan-Philipp Steghöfer, Chalmers | University of Gothenburg, Sweden<br><br><span style="font-weight:bold">Program Chairs:</span><br>Sven Tomforde, Christian-Albrechts-Universität zu Kiel, Germany<br>Timothy Wood, George Washington University, United States<br></td>
