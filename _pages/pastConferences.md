@@ -83,7 +83,7 @@ author_profile: true
   <tr>
     <td class="tg-lboi"><a href="https://icac2016.uni-wuerzburg.de/">ICAC 2016</a></td>
     <td class="tg-lboi">Würzburg, Germany</td>
-    <td class="tg-lboi">33.8%</td>
+    <td class="tg-lboi">34%</td>
     <td class="tg-lboi"><a href="https://saso2016.informatik.uni-augsburg.de/">SASO 2016</a></td>
     <td class="tg-lboi">Augsburg, Germany</td>
     <td class="tg-lboi">21%</td>
@@ -95,7 +95,7 @@ author_profile: true
   <tr>
     <td class="tg-lboi"><a href="http://icac2015.imag.fr/">ICAC 2015</a></td>
     <td class="tg-lboi">Grenoble, France</td>
-    <td class="tg-lboi">27.5%</td>
+    <td class="tg-lboi">28%</td>
     <td class="tg-lboi"><a href="http://saso2015.mit.edu/">SASO 2015</a></td>
     <td class="tg-lboi">Cambridge, MA, USA</td>
     <td class="tg-lboi">30%</td>
@@ -143,10 +143,10 @@ author_profile: true
   <tr>
     <td class="tg-lboi">ICAC 2011</td>
     <td class="tg-lboi">Karlsruhe, Germany</td>
-    <td class="tg-lboi">22.5%</td>
+    <td class="tg-lboi">23%</td>
     <td class="tg-lboi">SASO 2011</td>
     <td class="tg-lboi">Ann Arbor, MI, USA</td>
-    <td class="tg-lboi">21.6%</td>
+    <td class="tg-lboi">22%</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Hartmut Schmeck, Karlsruhe Institute of Technology, Germany<br>Wolfgang Rosenstiel, University of Tübingen, Germany<br><br><span style="font-weight:bold">Program Chairs:</span><br>Tarek Abdezaher, University of Illinois at Urbana-Champaign, USA<br>Joseph Hellerstein, Google, USA<br></td>
@@ -155,7 +155,7 @@ author_profile: true
   <tr>
     <td class="tg-lboi">ICAC 2010</td>
     <td class="tg-lboi">Washington, DC, USA</td>
-    <td class="tg-lboi">27.2%</td>
+    <td class="tg-lboi">27%</td>
     <td class="tg-lboi"><a href="http://www.inf.u-szeged.hu/projectdirs/saso10/index.php">SASO 2010</a></td>
     <td class="tg-lboi">Budapest, Hungary</td>
     <td class="tg-lboi">28%</td>
@@ -194,7 +194,7 @@ author_profile: true
     <td class="tg-lboi">16%</td>
     <td class="tg-lboi"><a href="http://projects.csail.mit.edu/saso2007/">SASO 2007</a></td>
     <td class="tg-lboi">Boston, MA, USA</td>
-    <td class="tg-lboi">20.8%</td>
+    <td class="tg-lboi">21%</td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><span style="font-weight:bold">General Chairs:</span><br>Mazin Yousif, Intel Corporation, USA<br>Omer Rana, Cardiff University, UK<br><br><span style="font-weight:bold">Program Chairs:</span><br>José A. B. Fortes, University of Florida, USA<br>Kumar Goswami, Hewlett-Packard, USA<br></td>
