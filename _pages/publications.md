@@ -7,6 +7,21 @@ author_profile: true
 
 ## 2020  
 ---
+ * **Evaluating the Performance of a State-of-the-Art Group-oriented Encryption Scheme for Dynamic Groups in an IoT Scenario** [Konferenz]  
+   Thomas Prantl, Peter Ten, Lukas Iffländer, Alexandra Dmitrenko, Samuel Kounev, and Christian Krupitzer   
+  IEEE Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2020  
+ * **An Overview of Design Patterns for Self-Adaptive Systems in the Context of the Internet of Things** [Journal]  
+	Christian Krupitzer, Timur Temizer, Thomas Prantl und Claudia Raibulet    
+	IEEE Access, 2020   
+ * **An IoT Network Emulator for Analyzing the Influence of Varying Network Quality** [Konferenz]  
+    Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer und Samuel Kounev    
+    EAI International Conference on Simulation Tools and Techniques, 2020   
+ * **A Simulation-based Optimization Framework for Online Adaptation of Networks** [Konferenz]  
+	Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer und Samuel Kounev   
+    EAI International Conference on Simulation Tools and Techniques, 2020   
+ * **REACT: A Model-Based Runtime Environment for Adapting Communication Systems** [Konferenz]  
+    Martin Pfannemüller, Martin Breitbach, Christian Krupitzer, Markus Weckesser, Christian Becker, Bradley Schmerl und Andy Schürr   
+	IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020  
 * **A Taxonomy of Optimization Factors for Platooning** [Journal]  
   Timo Sturm, Christian Krupitzer, Michele Segata und Christian Becker  
   IEEE Transactions on Intelligent Transportation Systems, 2020  
