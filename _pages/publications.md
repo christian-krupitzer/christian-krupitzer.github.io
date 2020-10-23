@@ -10,7 +10,7 @@ author_profile: true
  * **Evaluating the Performance of a State-of-the-Art Group-oriented Encryption Scheme for Dynamic Groups in an IoT Scenario** [Konferenz]  
    Thomas Prantl, Peter Ten, Lukas Iffländer, Alexandra Dmitrenko, Samuel Kounev, and Christian Krupitzer   
   IEEE Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2020  
-  [ accepted | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]   
+  [ accepted | [Open PDF](https://christian-krupitzer.github.io/files/2020_MASCOTS_Group-oriented Encryption Scheme Evaluation.pdf) ]   
  * **An Overview of Design Patterns for Self-Adaptive Systems in the Context of the Internet of Things** [Journal]  
 	Christian Krupitzer, Timur Temizer, Thomas Prantl, and Claudia Raibulet    
 	IEEE Access, 2020   
@@ -25,7 +25,7 @@ author_profile: true
      [ [Link to Publication](https://builder.eai.eu/share/52732/full) | [Open PDF](https://christian-krupitzer.github.io/files/2020_SIMUTools_Simulation-based Optimization Framework for Online Adaptation of Networks.pdf) ]   
  * **REACT: A Model-Based Runtime Environment for Adapting Communication Systems** [Konferenz]  
     Martin Pfannemüller, Martin Breitbach, Christian Krupitzer, Markus Weckesser, Christian Becker, Bradley Schmerl, and Andy Schürr   
-	IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020
+	IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020   
 	 [ [Link to Publication](https://ieeexplore.ieee.org/document/9196382) | [Open PDF](https://christian-krupitzer.github.io/files/2020_ACSOS_REACT - A Model-Based Runtime Environment for Adapting Communication Systems.pdf) ]   
 * **A Taxonomy of Optimization Factors for Platooning** [Journal]  
   Timo Sturm, Christian Krupitzer, Michele Segata, and Christian Becker  
