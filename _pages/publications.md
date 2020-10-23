@@ -10,20 +10,25 @@ author_profile: true
  * **Evaluating the Performance of a State-of-the-Art Group-oriented Encryption Scheme for Dynamic Groups in an IoT Scenario** [Konferenz]  
    Thomas Prantl, Peter Ten, Lukas Iffländer, Alexandra Dmitrenko, Samuel Kounev, and Christian Krupitzer   
   IEEE Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2020  
+  [ accepted | [Open PDF](https://christian-krupitzer.github.io/files/.pdf) ]   
  * **An Overview of Design Patterns for Self-Adaptive Systems in the Context of the Internet of Things** [Journal]  
-	Christian Krupitzer, Timur Temizer, Thomas Prantl und Claudia Raibulet    
+	Christian Krupitzer, Timur Temizer, Thomas Prantl, and Claudia Raibulet    
 	IEEE Access, 2020   
+	[ [Link to Publication](https://ieeexplore.ieee.org/document/9223653) | [Open PDF](https://christian-krupitzer.github.io/files/2020_IEEE-Access_SAS Design Patterns Survey.pdf) ]   
  * **An IoT Network Emulator for Analyzing the Influence of Varying Network Quality** [Konferenz]  
-    Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer und Samuel Kounev    
+    Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer, and Samuel Kounev    
     EAI International Conference on Simulation Tools and Techniques, 2020   
+    [ [Link to Publication](https://builder.eai.eu/share/52732/full) | [Open PDF](https://christian-krupitzer.github.io/files/2020_SIMUTools_IoT Network Emulator.pdf) ]   
  * **A Simulation-based Optimization Framework for Online Adaptation of Networks** [Konferenz]  
-	Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer und Samuel Kounev   
+	Stefan Herrnleben, Johannes Grohmann, Piotr Rygielski, Veronika Lesch, Christian Krupitzer, and Samuel Kounev   
     EAI International Conference on Simulation Tools and Techniques, 2020   
+     [ [Link to Publication](https://builder.eai.eu/share/52732/full) | [Open PDF](https://christian-krupitzer.github.io/files/2020_SIMUTools_Simulation-based Optimization Framework for Online Adaptation of Networks.pdf) ]   
  * **REACT: A Model-Based Runtime Environment for Adapting Communication Systems** [Konferenz]  
-    Martin Pfannemüller, Martin Breitbach, Christian Krupitzer, Markus Weckesser, Christian Becker, Bradley Schmerl und Andy Schürr   
-	IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020  
+    Martin Pfannemüller, Martin Breitbach, Christian Krupitzer, Markus Weckesser, Christian Becker, Bradley Schmerl, and Andy Schürr   
+	IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS), 2020
+	 [ [Link to Publication](https://ieeexplore.ieee.org/document/9196382) | [Open PDF](https://christian-krupitzer.github.io/files/2020_ACSOS_REACT - A Model-Based Runtime Environment for Adapting Communication Systems.pdf) ]   
 * **A Taxonomy of Optimization Factors for Platooning** [Journal]  
-  Timo Sturm, Christian Krupitzer, Michele Segata und Christian Becker  
+  Timo Sturm, Christian Krupitzer, Michele Segata, and Christian Becker  
   IEEE Transactions on Intelligent Transportation Systems, 2020  
   [ [Link to Publication](https://ieeexplore.ieee.org/document/9103935) | [Open PDF](https://christian-krupitzer.github.io/files/2020_TITS_Platooning-Evaluation-Survey.pdf) ]
 * **Introduction to the Special Issue "Applications in Self-Aware Computing Systems and their Evaluation"** [Editorial]  
