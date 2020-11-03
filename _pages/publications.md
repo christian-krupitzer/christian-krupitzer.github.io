@@ -11,7 +11,7 @@ author_profile: true
  * **A Comparison of Mechanisms for Compensating Negative Impacts of System Integration** [Journal]   
  Veronika Lesch, Christian Krupitzer, Kevin Stubenrauch, Nico Keil, Christian Becker, Samuel Kounev, Michele Segata  
  Future Generation Computer Systems, 2020  
- [ [Link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330132?via%3Dihub) | [Open PDF]() ]
+ [ [Link to Publication](https://www.sciencedirect.com/science/article/abs/pii/S0167739X20330132?via%3Dihub) ]
  * **Evaluating the Performance of a State-of-the-Art Group-oriented Encryption Scheme for Dynamic Groups in an IoT Scenario** [Conference]  
    Thomas Prantl, Peter Ten, Lukas Iffländer, Alexandra Dmitrenko, Samuel Kounev, and Christian Krupitzer   
   IEEE Symposium on Modelling, Analysis, and Simulation of Computer and Telecommunication Systems (MASCOTS), 2020  
